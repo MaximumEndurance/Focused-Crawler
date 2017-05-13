@@ -1,0 +1,1 @@
+response.css('title').extract()  # this is returning an array. So can use aray operatprs like response.css('title')[0] to get only the first match.
